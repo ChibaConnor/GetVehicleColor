@@ -1,0 +1,8 @@
+{
+    "user": "ChibaConnor",
+    "repo": "GetVehicleColor",
+    "dependencies": [
+        "Southclaws/samp-stdlib",
+        "pawn-lang/YSI-Includes"
+    ]
+}
